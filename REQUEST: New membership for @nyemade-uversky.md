@@ -24,9 +24,13 @@
 - https://github.com/dapr/docs/pull/2575
 - https://github.com/dapr/docs/pull/2672
 - https://github.com/dapr/docs/pull/2691
+- https://github.com/dapr/docs/pull/2419
 
 
 **Issues responded to**
 - https://github.com/dapr/docs/issues/2799
 - https://github.com/dapr/docs/issues/1727
-- 
+- https://github.com/dapr/docs/issues/2420
+- https://github.com/dapr/docs/issues/2799
+- https://github.com/dapr/quickstarts/issues/733
+- https://github.com/dapr/dapr/issues/5373
